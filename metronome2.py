@@ -1,4 +1,5 @@
 #Snap Metronome
+#Version 1.0 Rob Allen 11/22/2020
 import threading
 from playsound import playsound
 from PyQt5.QtWidgets import * 
